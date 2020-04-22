@@ -14,3 +14,5 @@ Application Development" by Michael K. Johnson and Erik Troan (available
 from Addison Wesley in May, 1998).
 
 Comments on popt should be addressed to popt-devel@rpm5.org.
+
+./configure CC=mipsel-openwrt-linux-gcc --host=mipsel-linux --prefix=$PWD/install
